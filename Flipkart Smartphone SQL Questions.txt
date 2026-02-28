@@ -1,0 +1,20 @@
+Flipkart Smartphone
+
+Questions
+
+
+Write a query to list all products with their brand, model, and discounted price.
+Find the total number of products available for each brand.
+Find the average discounted price of smartphones by brand.
+Count how many smartphones have a rating above 4.5.
+List the top 5 models with the highest number of reviews.
+Show all smartphones where the discounted price is less than 70% of the original price.
+Find the distinct storage options available in the dataset.
+Identify the brand with the highest average rating using a subquery.
+Use a window function to rank models by rear_camera resolution within each brand.
+Find the top 3 models with the best battery-to-price ratio.
+Write a query to calculate the correlation between rating_count and discounted_price (hint: group into ranges and compare averages).
+For each brand, calculate total reviews, average rating, and average discount — then rank brands by overall performance score.
+Segment products into three categories based on original_price (Budget, Mid-range, Premium) using CASE. Show average ratings per segment.
+Find the processor type most commonly used in high-rated phones (ratings > 4.5).
+Build a query that identifies the “flagship” model per brand (highest discounted_price) and compares its rating with the brand’s average rating.
